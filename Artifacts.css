@@ -1,0 +1,350 @@
+ .u-section-1 {
+  background-image: url("images/annie-spratt-gM8igOIP5MA-unsplash.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 533px;
+}
+
+.u-section-1 .u-video-1 {
+  width: 570px;
+  height: 444px;
+  margin: 30px auto 0 0;
+}
+
+.u-section-1 .embed-responsive-1 {
+  position: absolute;
+  width: 178%;
+  left: -39%;
+  height: 178%;
+  top: -39%;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  margin: -444px 0 60px 593px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 361px;
+  }
+
+  .u-section-1 .u-video-1 {
+    width: 470px;
+    height: 366px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -366px;
+    margin-right: 175px;
+    margin-left: 393px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    margin-left: 173px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 260px;
+  }
+
+  .u-section-1 .u-video-1 {
+    width: 340px;
+    height: 265px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -265px;
+    margin-right: 110px;
+  }
+} .u-section-2 {
+  background-image: url("images/annie-spratt-gM8igOIP5MA-unsplash-8.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 504px;
+}
+
+.u-section-2 .u-video-1 {
+  width: 570px;
+  height: 444px;
+  margin: 30px auto 0 0;
+}
+
+.u-section-2 .embed-responsive-1 {
+  position: absolute;
+  width: 178%;
+  left: -39%;
+  height: 178%;
+  top: -39%;
+}
+
+.u-section-2 .u-text-1 {
+  font-weight: 700;
+  margin: -444px 30px 242px 600px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 338px;
+  }
+
+  .u-section-2 .u-video-1 {
+    width: 470px;
+    height: 366px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin: -366px 0 60px 430px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-text-1 {
+    margin-left: 210px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-text-1 {
+    margin-left: 30px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 237px;
+  }
+
+  .u-section-2 .u-video-1 {
+    width: 340px;
+    height: 265px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-top: -265px;
+    margin-left: 0;
+  }
+} .u-section-3 {
+  background-image: url("images/annie-spratt-gM8igOIP5MA-unsplash.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 504px;
+}
+
+.u-section-3 .u-video-1 {
+  width: 570px;
+  height: 444px;
+  margin: 30px auto 0 0;
+}
+
+.u-section-3 .embed-responsive-1 {
+  position: absolute;
+  width: 178%;
+  left: -39%;
+  height: 178%;
+  top: -39%;
+}
+
+.u-section-3 .u-text-1 {
+  font-weight: 700;
+  margin: -444px 30px 242px 600px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 338px;
+  }
+
+  .u-section-3 .u-video-1 {
+    width: 470px;
+    height: 366px;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin: -366px 0 60px 430px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-text-1 {
+    margin-left: 210px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-text-1 {
+    margin-left: 30px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 237px;
+  }
+
+  .u-section-3 .u-video-1 {
+    width: 340px;
+    height: 265px;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-top: -265px;
+    margin-left: 0;
+  }
+} .u-section-4 {
+  background-image: url("images/annie-spratt-gM8igOIP5MA-unsplash.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-4 .u-sheet-1 {
+  min-height: 504px;
+}
+
+.u-section-4 .u-video-1 {
+  width: 570px;
+  height: 444px;
+  margin: 30px auto 0 0;
+}
+
+.u-section-4 .embed-responsive-1 {
+  position: absolute;
+  width: 178%;
+  left: -39%;
+  height: 178%;
+  top: -39%;
+}
+
+.u-section-4 .u-text-1 {
+  font-weight: 700;
+  margin: -444px 30px 242px 600px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 338px;
+  }
+
+  .u-section-4 .u-video-1 {
+    width: 470px;
+    height: 366px;
+  }
+
+  .u-section-4 .u-text-1 {
+    margin: -366px 0 60px 430px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-text-1 {
+    margin-left: 210px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-text-1 {
+    margin-left: 30px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 237px;
+  }
+
+  .u-section-4 .u-video-1 {
+    width: 340px;
+    height: 265px;
+  }
+
+  .u-section-4 .u-text-1 {
+    margin-top: -265px;
+    margin-left: 0;
+  }
+} .u-section-5 {
+  background-image: url("images/annie-spratt-gM8igOIP5MA-unsplash.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-5 .u-sheet-1 {
+  min-height: 557px;
+}
+
+.u-section-5 .u-video-1 {
+  width: 570px;
+  height: 444px;
+  margin: 83px auto 0 0;
+}
+
+.u-section-5 .embed-responsive-1 {
+  position: absolute;
+  width: 178%;
+  left: -39%;
+  height: 178%;
+  top: -39%;
+}
+
+.u-section-5 .u-text-1 {
+  font-weight: 700;
+  margin: -444px 30px 60px 600px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 381px;
+  }
+
+  .u-section-5 .u-video-1 {
+    width: 470px;
+    height: 366px;
+  }
+
+  .u-section-5 .u-text-1 {
+    margin-top: -366px;
+    margin-right: 0;
+    margin-left: 430px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-5 .u-text-1 {
+    margin-left: 210px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-5 .u-text-1 {
+    margin-left: 30px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 280px;
+  }
+
+  .u-section-5 .u-video-1 {
+    width: 340px;
+    height: 265px;
+  }
+
+  .u-section-5 .u-text-1 {
+    margin-top: -265px;
+    margin-left: 0;
+  }
+}
